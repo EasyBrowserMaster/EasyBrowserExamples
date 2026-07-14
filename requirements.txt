@@ -1,1 +1,1 @@
-easybrowser-sdk>=0.1.2
+easybrowser-local-api-sdk>=0.1.3
